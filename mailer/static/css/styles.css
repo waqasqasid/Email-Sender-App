@@ -44,7 +44,7 @@ form button {
 
 /* Submit Button Styling */
 form button {
-    background-color: #4CAF50;
+    background-color: #2a8c2d;
     color: white;
     cursor: pointer;
     transition: background-color 0.3s ease;
@@ -52,7 +52,7 @@ form button {
 
 /* Submit Button Hover Effect */
 form button:hover {
-    background-color: #45a049;
+    background-color: #0d7a15;
 }
 
 /* Link Styling */
@@ -62,7 +62,7 @@ p {
 }
 
 p a {
-    color: #4CAF50;
+    color: #41c645;
     text-decoration: none;
     font-weight: bold;
 }
